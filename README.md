@@ -1,7 +1,9 @@
 ## Hi 👋, this is VinylCat
 
-- 🔭 I’m currently studying in :zn: [SJTU](https://www.sjtu.edu.cn/)...
+- 🔭 I’m currently studying in [SJTU](https://www.sjtu.edu.cn/)...
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinylCat&hide=contribs,prs)
 <!--
 **VinylCat/VinylCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
