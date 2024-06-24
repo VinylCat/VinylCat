@@ -1,7 +1,8 @@
 ## Hi 👋, this is VinylCat
 
-- 🔭 I’m currently studying in :CN: [SJTU](https://www.sjtu.edu.cn/)...
+- 🔭 I’m currently studying in [SJTU](https://www.sjtu.edu.cn/)...
 
+- 😄 Cycling and photography
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinylCat\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
