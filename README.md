@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently studying in :cn: [SJTU](https://www.sjtu.edu.cn/)...
 
-- 😄 Cycling :bicyclist: and photography :camera:
+- 😄 Besides coding: Cycling :bicyclist: and photography :camera:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinylCat\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinylCat&layout=compact)
 <!--
 **VinylCat/VinylCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
