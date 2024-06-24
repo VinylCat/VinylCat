@@ -1,6 +1,6 @@
 ## Hi 👋, this is VinylCat
 
-- 🔭 I’m currently studying in zn [SJTU]<https://www.sjtu.edu.cn/>...
+- 🔭 I’m currently studying in :zn: [SJTU](https://www.sjtu.edu.cn/)...
 
 <!--
 **VinylCat/VinylCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
