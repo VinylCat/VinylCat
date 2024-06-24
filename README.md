@@ -1,6 +1,5 @@
-[![MasterHead](https://github.com/VinylCat/VinylCat/blob/main/header.png)]([your GitHub link](https://github.com/VinylCat/))
-
-
+[![MasterHead](https://github.com/VinylCat/VinylCat/blob/main/header.png)
+---
 
 - 🔭 I’m currently studying in [SJTU](https://www.sjtu.edu.cn/)...
 
